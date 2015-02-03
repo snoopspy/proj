@@ -1,13 +1,14 @@
 [proj](https://github.com/snoopspy/proj.git)
   * etc
-    * [gtrace](http://github.com/snoopspy/gtrace.git)
-    * [vmld](http://github.com/snoopspy/vmld.git)
+    * [gtrace](http://github.com/snoopspy/gtrace)
+    * [vmld](http://github.com/snoopspy/vmld)
   * google
-    * [glog](https://github.com/snoopspy/glog.git)
-    * [gtest](https://github.com/snoopspy/gtest.git)
+    * [glog](https://github.com/snoopspy/glog)
+    * [gtest](https://github.com/snoopspy/gtest)
   * net
-    * [snoop91](https://github.com/snoopspy/snoop91.git)
+    * [snoop91](https://github.com/snoopspy/snoop91)
+    * [winpcap](https://github.com/snoopspy/winpcap)
   * qt
-    * [qt-solutions](https://gitorious.org/qt-solutions/qt-solutions.git)
+    * [qt-solutions](https://gitorious.org/qt-solutions/qt-solutions)
   * vdream
-    * [vdream91](https://github.com/snoopspy/vdream91.git)
+    * [vdream91](https://github.com/snoopspy/vdream91)
