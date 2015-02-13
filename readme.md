@@ -1,7 +1,6 @@
 [proj](https://github.com/snoopspy/proj.git)
   * etc
     * [gtrace](http://github.com/snoopspy/gtrace)
-    * [vmemleak](http://github.com/snoopspy/vmemleak)
   * google
     * [glog](https://github.com/snoopspy/glog)
     * [gtest](https://github.com/snoopspy/gtest)
@@ -12,3 +11,4 @@
     * [qt-solutions](https://gitorious.org/qt-solutions/qt-solutions)
   * vdream
     * [vdream91](https://github.com/snoopspy/vdream91)
+    * [vmemleak](http://github.com/snoopspy/vmemleak)
