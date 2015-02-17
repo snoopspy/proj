@@ -5,11 +5,11 @@
     * [glog](https://github.com/snoopspy/glog)
     * [gtest](https://github.com/snoopspy/gtest)
   * net
-    * [snoop91](https://github.com/snoopspy/snoop91)
+    * [snoop](https://github.com/snoopspy/snoop)
     * [winpcap](https://github.com/snoopspy/winpcap)
   * qt
     * [qt-solutions](https://gitorious.org/qt-solutions/qt-solutions)
   * vdream
-    * [vdream91](https://github.com/snoopspy/vdream91)
+    * [vdream](https://github.com/snoopspy/vdream)
     * [vmemleak](http://github.com/snoopspy/vmemleak)
     * [vperformance](http://github.com/snoopspy/vperformance)
