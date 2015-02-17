@@ -12,3 +12,4 @@
   * vdream
     * [vdream91](https://github.com/snoopspy/vdream91)
     * [vmemleak](http://github.com/snoopspy/vmemleak)
+    * [vperformance](http://github.com/snoopspy/vperformance)
