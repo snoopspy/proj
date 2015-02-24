@@ -13,3 +13,4 @@
     * [vdream](https://github.com/snoopspy/vdream)
     * [vmemleak](http://github.com/snoopspy/vmemleak)
     * [vperformance](http://github.com/snoopspy/vperformance)
+    * [vproperty](http://github.com/snoopspy/vproperty)
