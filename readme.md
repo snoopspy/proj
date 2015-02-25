@@ -1,6 +1,7 @@
 [proj](https://github.com/snoopspy/proj.git)
   * etc
     * [gtrace](http://github.com/snoopspy/gtrace.git)
+    * [template](http://github.com/snoopspy/template.git)
   * google
     * [glog](https://github.com/snoopspy/glog.git)
     * [gtest](https://github.com/snoopspy/gtest.git)
