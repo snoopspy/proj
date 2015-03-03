@@ -1,5 +1,6 @@
 [proj](https://github.com/snoopspy/proj.git)
   * etc
+    * [cert](http://github.com/snoopspy/cert.git)
     * [gtrace](http://github.com/snoopspy/gtrace.git)
     * [template](http://github.com/snoopspy/template.git)
   * google
